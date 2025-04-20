@@ -79,12 +79,12 @@ We tackled key issues such as detecting and preventing vocal fatigue, bridging t
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center">
-  <img src="https://drive.google.com/file/d/1M7jIYkLCZ6KV1uttJIA8ntjNBK4_e4W8/view?usp=sharing" width="300" height="200" alt="Screenshot 6">
-  <img src="https://drive.google.com/file/d/1Qt0ms2vzbGXOGZiEX_NFDyN9sNidQbBZ/view?usp=sharing" width="300" height="200" alt="Screenshot 5">
-  <img src="https://drive.google.com/file/d/15xGny2ghqSJFC7s3H1vdXf3aGVi1FAur/view?usp=sharing" width="300" height="200" alt="Screenshot 4">
-  <img src="https://drive.google.com/file/d/13f5r1-kq8eTgFbASLbcmJnKGVvJo2WG5/view?usp=sharing" width="300" height="200" alt="Screenshot 3">
-  <img src="https://drive.google.com/file/d/1FgsVF51bbb6BOuieY2TATDYApy8rWSl1/view?usp=sharing" width="300" height="200" alt="Screenshot 2">
-  <img src="https://drive.google.com/file/d/1JRFdgAfhQqyVAIMTWtpYZcwGDOov-Wpt/view?usp=sharing" width="300" height="200" alt="Screenshot 1">
+  <img src="https://drive.google.com/uc?export=view&id=1M7jIYkLCZ6KV1uttJIA8ntjNBK4_e4W8" width="300" height="200" alt="Screenshot 6">
+  <img src="https://drive.google.com/uc?export=view&id=1Qt0ms2vzbGXOGZiEX_NFDyN9sNidQbBZ" width="300" height="200" alt="Screenshot 5">
+  <img src="https://drive.google.com/uc?export=view&id=15xGny2ghqSJFC7s3H1vdXf3aGVi1FAur" width="300" height="200" alt="Screenshot 4">
+  <img src="https://drive.google.com/uc?export=view&id=13f5r1-kq8eTgFbASLbcmJnKGVvJo2WG5" width="300" height="200" alt="Screenshot 3">
+  <img src="https://drive.google.com/uc?export=view&id=1FgsVF51bbb6BOuieY2TATDYApy8rWSl1" width="300" height="200" alt="Screenshot 2">
+  <img src="https://drive.google.com/uc?export=view&id=1JRFdgAfhQqyVAIMTWtpYZcwGDOov-Wpt" width="300" height="200" alt="Screenshot 1">
 </div>
 
 

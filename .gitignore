@@ -1,0 +1,8 @@
+ai/app/__pycache__
+client/node_modules
+server/node_modules
+server/.env
+ai/.env
+debug.log
+client/.env
+telegram/.venv

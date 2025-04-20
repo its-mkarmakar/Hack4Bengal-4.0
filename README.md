@@ -100,18 +100,8 @@ We tackled key issues such as detecting and preventing vocal fatigue, bridging t
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** https://youtu.be/gZ_r5Cb6MIA
+- **Demo Video Link:** https://drive.google.com/file/d/1ImBaBUPnpfTK2_4CcFqtovO_aylCRZMu/view?usp=sharing
 - **Pitch Deck / PPT Link:** https://drive.google.com/file/d/1C1lraPV50UjH39YfvHikic1kxpvaF3xI/view?usp=sharing
-
----
-
-## ✅ Tasks & Bonus Checklist
-
-- [✅] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
-
-*(Mark with ✅ if completed)*
 
 ---
 

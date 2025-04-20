@@ -7,17 +7,9 @@
 ## 📌 Problem Statement
 
 
-**The problem Resonanze solves**
+In today's fast-paced, communication-driven world, vocal strain and deterioration are silent struggles for millions—especially professionals like teachers, singers, and public speakers whose livelihoods depend on a healthy voice. Traditional voice care solutions are often reactive, inaccessible, or lack personalization, leaving users without the tools they need to monitor and maintain vocal wellness proactively.
 
-High Voice Strain Among Professionals – Teachers, singers, content creators, and public speakers rely on their voice daily, making them highly susceptible to vocal fatigue and long-term damage.
-
-Lack of Preventive Care – Many voice professionals only seek medical attention when issues become severe, as there is no easy-to-use tool for continuous vocal health monitoring.
-
-No Personalized Feedback System – There is no AI-driven solution that provides real-time feedback on vocal strain, tone, and overall voice health tailored to individual needs.
-
-Inefficient Healthcare Support – ENT specialists and vocal coaches lack a centralized system to track a patient’s vocal health history, making diagnosis and treatment less effective.
-
-Need for a Subscription-Based AI Solution – Professionals need an affordable, scalable, and easily accessible tool that integrates with their daily routine, providing actionable insights and helping prevent long-term voice-related health issues.
+At the same time, healthcare providers face challenges in remotely assessing and tracking patients' vocal health, while everyday users lack engaging and accessible ways to improve their voice habits. There's also a gap in making vocal health fun, continuous, and integrated into users’ digital lives.
 
 ---
 

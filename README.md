@@ -1,5 +1,3 @@
-![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
-
 # Resonanze
 
 > 🩺 The Future of Audio Health
@@ -9,7 +7,17 @@
 ## 📌 Problem Statement
 
 
-**Problem Statement 1 – Weave AI Magic with Groq**
+**The problem Resonanze solves**
+
+High Voice Strain Among Professionals – Teachers, singers, content creators, and public speakers rely on their voice daily, making them highly susceptible to vocal fatigue and long-term damage.
+
+Lack of Preventive Care – Many voice professionals only seek medical attention when issues become severe, as there is no easy-to-use tool for continuous vocal health monitoring.
+
+No Personalized Feedback System – There is no AI-driven solution that provides real-time feedback on vocal strain, tone, and overall voice health tailored to individual needs.
+
+Inefficient Healthcare Support – ENT specialists and vocal coaches lack a centralized system to track a patient’s vocal health history, making diagnosis and treatment less effective.
+
+Need for a Subscription-Based AI Solution – Professionals need an affordable, scalable, and easily accessible tool that integrates with their daily routine, providing actionable insights and helping prevent long-term voice-related health issues.
 
 ---
 
@@ -27,12 +35,11 @@
 ## 🧠 Team & Approach
 
 ### Team Name:  
-Copy-Paste Devs
+Tesseract
 
 ### Team Members:  
-- Lakshay Gupta   
-- Kanik Chawla 
-- Aryaman Agarwal
+- Manish Karmakar   
+- Monosij Kayal
 
 
 ### Your Approach:  
@@ -56,7 +63,7 @@ We tackled key issues such as detecting and preventing vocal fatigue, bridging t
 - APIs: Groq, Google
 - Hosting: Netlify, Azure, Docker
 
-### Sponsor Technologies Used (if any):
+### Technologies Used:
 - [✅] **Groq:** - Leveraged Groq’s blazing-fast LPU architecture to enable ultra-low latency inference for both voice and NLP tasks. This allowed us to deliver real-time analysis and feedback that feels magical. By decoding voice embeddings on-the-fly, our system doesn’t just hear you — it *understands* you, offering insights that feel almost human.
 
 ---
@@ -203,6 +210,6 @@ We’d like to thank the following resources and tools that powered Resonanze:
 
 ## 🏁 Final Words
 
-Participating in **Hackhazard Online Hackathon** was an electrifying journey of creativity and collaboration! We tackled challenges head-on, from debugging to implementing innovative ideas, while learning the importance of teamwork and adaptability. Late-night brainstorming sessions brought a mix of inspiration and laughter, and the support from mentors and organizers was incredible. Hackhazard truly showcased the spirit of innovation!
+Participating in **Hack4Bengal 4.0 Online Hackathon** was an electrifying journey of creativity and collaboration! We tackled challenges head-on, from debugging to implementing innovative ideas, while learning the importance of teamwork and adaptability. Late-night brainstorming sessions brought a mix of inspiration and laughter, and the support from mentors and organizers was incredible. Hackhazard truly showcased the spirit of innovation!
 
 ---

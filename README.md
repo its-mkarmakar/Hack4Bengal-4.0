@@ -93,7 +93,7 @@ We tackled key issues such as detecting and preventing vocal fatigue, bridging t
 ## 📽️ Demo & Deliverables
 
 - **Demo Video Link:** https://drive.google.com/file/d/1ImBaBUPnpfTK2_4CcFqtovO_aylCRZMu/view?usp=sharing
-- **Pitch Deck / PPT Link:** https://drive.google.com/file/d/1C1lraPV50UjH39YfvHikic1kxpvaF3xI/view?usp=sharing
+- **Pitch Deck / PPT Link:** https://drive.google.com/file/d/1-1KoOBVLYeg2eA4692rva_iu-XJB3So5/view?usp=drivesdk
 
 ---
 

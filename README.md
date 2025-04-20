@@ -64,7 +64,7 @@ We tackled key issues such as detecting and preventing vocal fatigue, bridging t
 - Hosting: Netlify, Azure, Docker
 
 ### Technologies Used:
-- [✅] **Groq:** - Leveraged Groq’s blazing-fast LPU architecture to enable ultra-low latency inference for both voice and NLP tasks. This allowed us to deliver real-time analysis and feedback that feels magical. By decoding voice embeddings on-the-fly, our system doesn’t just hear you — it *understands* you, offering insights that feel almost human.
+- **Groq:** - Leveraged Groq’s blazing-fast LPU architecture to enable ultra-low latency inference for both voice and NLP tasks. This allowed us to deliver real-time analysis and feedback that feels magical. By decoding voice embeddings on-the-fly, our system doesn’t just hear you — it *understands* you, offering insights that feel almost human.
 
 ---
 
